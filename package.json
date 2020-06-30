@@ -1,0 +1,25 @@
+{
+  "name": "frontend-static-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate for static site",
+  "main": "src/common/common.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ageofrage/frontend-static-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "agehara_hiroshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ageofrage/frontend-static-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ageofrage/frontend-static-boilerplate#readme",
+  "dependencies": {
+    "webpack": "^4.43.0"
+  }
+}
